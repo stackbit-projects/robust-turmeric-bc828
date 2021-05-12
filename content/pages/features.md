@@ -2,7 +2,7 @@
 title: Features aa
 sections:
   - type: hero_section
-    title: Features
+    title: Features a
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
